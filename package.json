@@ -1,0 +1,18 @@
+{
+  "name": "haxball-chatbot",
+  "version": "1.0.0",
+  "description": "HaxBall ChatBot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "haxball.js": "^2.2.1",
+    "https-proxy-agent": "^7.0.5"
+  }
+}
