@@ -29,7 +29,7 @@ const sendSimSimiMessage = async (message) => {
  
 HaxballJS.then((HBInit) => {
   const room = HBInit({
-    roomName: "HaxBall ChatBot | GitHub Link",
+    roomName: "HaxBall ChatBot",
     maxPlayers: 10,
     public: true,
     token: process.env.HEADLESS_TOKEN, // Configure .env doc | https://www.haxball.com/headlesstoken
