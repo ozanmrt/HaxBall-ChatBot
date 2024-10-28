@@ -1,6 +1,6 @@
 # HaxBall ChatBot
 
-Nodejs chat bot that I developed using haxball, axios, dotenv packages. (Sorry for the swear words taught to the bot)
+Nodejs chat bot that I developed using **haxball**, **axios**, **dotenv** packages. (Sorry for the swear words taught to the bot)
 
 ## 📂 How to use?
 
