@@ -19,4 +19,6 @@ npm start
 
 > [!NOTE]
 > You can configure your HaxBall token via .env file.
-> https://www.haxball.com/headlesstoken
+
+> [!NOTE]
+> For token: https://www.haxball.com/headlesstoken
